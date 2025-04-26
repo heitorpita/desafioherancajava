@@ -11,7 +11,7 @@ public class Uchiha extends Ninja{
     }
 
     public void mostrarInformacoes() {
-        System.out.println("Habilidade especial uchiha");
+        System.out.println("Habilidade especial ");
     }
 
 }
